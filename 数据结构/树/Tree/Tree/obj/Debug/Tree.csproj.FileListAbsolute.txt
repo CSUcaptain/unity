@@ -1,0 +1,6 @@
+D:\gitBackup\数据结构\树\Tree\Tree\bin\Debug\Tree.exe.config
+D:\gitBackup\数据结构\树\Tree\Tree\bin\Debug\Tree.exe
+D:\gitBackup\数据结构\树\Tree\Tree\bin\Debug\Tree.pdb
+D:\gitBackup\数据结构\树\Tree\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+D:\gitBackup\数据结构\树\Tree\Tree\obj\Debug\Tree.exe
+D:\gitBackup\数据结构\树\Tree\Tree\obj\Debug\Tree.pdb
